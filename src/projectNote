@@ -1,0 +1,22 @@
+ReactJS JSON CRUD Project
+---------------------
+first create a new project------> create-react-app
+projectname
+open the project in vscode
+
+on the command prompt
+
+install react-router-dom
+install reach-router-dom
+
+npm install bootstrap
+
+in serverside different npm command prompt
+-------------
+npm install -g json-server
+to see the data------------> json-server --watch db.json
+
+this works on my pc==
+npm install -g json-server@0.17.4
+
+json-server --watch db.json

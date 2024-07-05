@@ -1,0 +1,20 @@
+{
+  "employee": [
+    {
+      "id": "accd",
+      "name": "Dirga Gurung",
+      "email": "agridjar@yahoo.com",
+      "phone": "5125176697"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
